@@ -1,7 +1,7 @@
 # JavaProjects
 JavaProjects
 # Welcome!
-This my first study Computer language. I choose Java because I am a Minecraft player.
+This is my first studying Computer language. I choose Java because I am a Minecraft player.
 In the future, I will study C++ and C#. 
 Hope I can keep and work out my first project ;)
 # How to learn 
